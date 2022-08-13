@@ -1,15 +1,3 @@
-
-
-https://user-images.githubusercontent.com/86471670/184494903-77af9956-210e-4264-bd6d-823e9b0373c1.mp4
-
-
-
-
-
-
-
-
-
 ###   Hi there 👋 I'M Bhagyashri Tamrakar :)
 
 <!--
