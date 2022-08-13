@@ -1,4 +1,16 @@
-###                                                                Hi there 👋 I'M Bhagyashri Tamrakar :)
+
+
+https://user-images.githubusercontent.com/86471670/184494903-77af9956-210e-4264-bd6d-823e9b0373c1.mp4
+
+
+
+
+
+
+
+
+
+###   Hi there 👋 I'M Bhagyashri Tamrakar :)
 
 <!--
 **BST82/BST82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +18,7 @@
 Here are some ideas to get you started:  -->
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning Full stack developer
+- 🌱 I’m currently learning Full stack development
 - 👯 I’m looking to collaborate on Competitive Programming 
 - 💬 Ask me about what you want 
 - 📫 How to reach me: bt7355711982@gmail.com
