@@ -1,4 +1,4 @@
-                                                        ### Hi there 👋 I'M Bhagyashri Tamrakar : )
+###                                                                Hi there 👋 I'M Bhagyashri Tamrakar :)
 
 <!--
 **BST82/BST82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
