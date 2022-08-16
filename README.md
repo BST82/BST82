@@ -11,6 +11,6 @@ Here are some ideas to get you started:  -->
 - 💬 Ask me about what you want 
 - 📫 How to reach me: bt7355711982@gmail.com
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: Computer world is only 0 and 1 but it is not actualy 0 and 1 🤔
+- ⚡ Fun fact: Computer world is only 0 and 1 but it is not actually 0 and 1 🤔
 
 
