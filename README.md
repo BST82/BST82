@@ -10,6 +10,7 @@ Here are some ideas to get you started:  -->
 - 👯 I’m looking to collaborate on Competitive Programming 
 - 💬 Ask me about what you want 
 - 📫 How to reach me: bt7355711982@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/bhagyashri-tamrakar-529527194/
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: Computer world is only 0 and 1 but it is not actually 0 and 1 🤔
 
