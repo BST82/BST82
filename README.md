@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagya Shri Tamrakar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="900" src="https://svg-banners.vercel.app/api?type=origin&text1=Bhagyashri%20Tamrakar%20🤠&text2=💖%20%20https://www.linkedin.com/in/bhagyashri-tamrakar-529527194/&width=900&height=200">
+<img align="right" alt="Coding" width="900" src="https://svg-banners.vercel.app/api?type=luminance&text1=WebDeveloper%20👨‍💻&width=950&height=250">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bst82" alt="bst82" /></a> </p>
 <img align="right" alt="Coding" width="480" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
