@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="900" src="https://svg-banners.vercel.app/api?type=luminance&text1=WebDeveloper%20👨‍💻&width=950&height=250">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bst82" alt="bst82" /></a> </p>
+<p align="left"> <a href="https://github.com/bst82/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bst82&theme=onedark" alt="bst82" /></a> </p>
+
 <img align="right" alt="Coding" width="480" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bst82&label=Profile%20views&color=0e75b6&style=flat" alt="bst82" /> </p>
