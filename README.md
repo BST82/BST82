@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhagya Shri Tamrakar</h1>
+<h1 align="center">Hi 👋, I'm Bhagya Shri Tamrakar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
+
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="900" src="https://svg-banners.vercel.app/api?type=luminance&text1=WebDeveloper%20👨‍💻&width=950&height=250">
 
