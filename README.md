@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagya Shri Tamrakar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/872eb33617213e26afef61f423f6debf521ce541d05c0116097b452777869999/687474703a2f2f692e67697068792e636f6d2f5457364d3572306e63424863512e676966" width="50">, I'm Bhagya Shri Tamrakar <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="900" src="https://svg-banners.vercel.app/api?type=luminance&text1=WebDeveloper%20👨‍💻&width=950&height=250">
